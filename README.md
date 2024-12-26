@@ -138,6 +138,10 @@ diamond(rows);
 - These patterns are printed directly to the console.
 - Adjust the number of rows as needed to generate different sizes of patterns.
 
+## Deployment
+
+https://patterns-sk.netlify.app/
+
 ## Local Setup
 
 To run the patterns locally : 

@@ -137,3 +137,10 @@ diamond(rows);
 - Ensure the input to the functions is a positive integer.
 - These patterns are printed directly to the console.
 - Adjust the number of rows as needed to generate different sizes of patterns.
+
+## Local Setup
+
+To run the patterns locally : 
+
+1. Clone this repository.
+2. Open "js" file and see the output in your terminal.
